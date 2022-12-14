@@ -9,9 +9,9 @@
 <p align="left">
 <a href="https://twitter.com/linaben_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linaben_14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lina-ben-90ab801b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lina-ben-90ab801b4" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/lina-benyahia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lina-benyahia" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15748883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15748883" height="30" width="40" /></a>
 <a href="https://instagram.com/linaben_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linaben_14" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sheshines9791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sheshines9791" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/she shines🌝" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="she shines🌝" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
