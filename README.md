@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Lina Benyahia</h1>
+<h1 align="center">SELAM 😊, I'm Lina Benyahia</h1>
 <h3 align="center">Student at Higher National School of Science and Technology of Computer Science(ESTIN) location:Amizour,Bejaia,Algeria</h3>
 
 - 📝 I write articles on [https://linabloggerr.blogspot.com/](https://linabloggerr.blogspot.com/)
