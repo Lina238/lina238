@@ -1,7 +1,5 @@
-<h1 align="center">Hello 👋, I'm Lina Benyahia</h1>
-<h3 align="center">Student at Higher National School of Science and Technology of Computer Science(ESTIN) location:Amizour,Bejaia,Algeria</h3>
+<h1 align="center">hola!, I'm Lina Benyahia</h1>
 
-- 📝 I regularly write articles on [https://linabloggerr.blogspot.com/](https://linabloggerr.blogspot.com/)
 
 - 📫 How to reach me **linabenyahia1408@gmail.com**
 
