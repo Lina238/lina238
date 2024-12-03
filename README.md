@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/free-palestine-i-love-palestine-palestine-flag-arabic-yvonne-remick.jpg" alt="Free Palestine" width="300">
-</div>
+
 
 - 📫 How to reach me **linabenyahia1408@gmail.com**
 
