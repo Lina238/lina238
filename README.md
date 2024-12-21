@@ -10,7 +10,9 @@
 <a href="https://linkedin.com/in/lina-benyahia-90ab801b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lina-benyahia-90ab801b4" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15748883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15748883" height="30" width="40" /></a>
 <a href="https://kaggle.com/linaben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="linaben" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lina.benyahia_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="watts_on14_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/linaben.jpg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linaben.jpg" height="30" width="40" /></a>
+  <a href="https://huggingface.co/lina238" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/uczt-mpzlawml0rh8-1beicw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczt-mpzlawml0rh8-1beicw" height="30" width="40" /></a>
 </p>
 
