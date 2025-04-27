@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/lina238_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lina238_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lina-benyahia-90ab801b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lina-benyahia-90ab801b4" height="30" width="40" /></a>
+  <a href="https://gitlab.com/Lina238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="gitlab" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15748883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15748883" height="30" width="40" /></a>
 <a href="https://kaggle.com/linaben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="linaben" height="30" width="40" /></a>
 <a href="https://www.instagram.com/linaben.jpg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linaben.jpg" height="30" width="40" /></a>
