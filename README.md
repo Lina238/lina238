@@ -1,6 +1,7 @@
 
 
 - 📫 How to reach me **linabenyahia1408@gmail.com**
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tonpseudo)
 
 - ⚡ Fun fact **I think I'm an alien**
 
