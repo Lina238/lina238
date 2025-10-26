@@ -35,6 +35,6 @@
 
 ### ☕ IF YOU WANT TO SUPPORT ME
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/linabenyahl)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/linabenyahl)
 
 
