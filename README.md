@@ -1,7 +1,7 @@
 
 
 - 📫 How to reach me **linabenyahia1408@gmail.com**
-- portfolio: https://lina-benyahia.vercel.app
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,7 +32,7 @@
 </a> </p>
 
 ---
-
+- portfolio: https://lina-benyahia.vercel.app
 ### ☕ IF YOU WANT TO SUPPORT ME
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/linabenyahl)
