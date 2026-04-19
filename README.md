@@ -102,19 +102,6 @@
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lina238&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina238&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### ☕ Support me
