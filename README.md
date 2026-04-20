@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lina 👋✨
 
-### 🎓 Software Engineer | AI Enthusiast | Full-Stack Developer
+### 🎓 🎓 AI Engineer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Passionate+about+AI+%26+Data+Science;Full-Stack+Developer;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
